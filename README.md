@@ -2,6 +2,10 @@
 
 This horiseon website can be viewed at https://aliciachen10.github.io/horiseon-website/
 
+# preview 
+![horiseon-preview](https://github.com/aliciachen10/horiseon-website/blob/main/assets/images/horiseon-preview.png)
+
+
 ## prerequisites & how to use
 No prerequisites to the project! Just clone the repository and open index.html in your browser.
 
