@@ -2,7 +2,7 @@
 
 This horiseon website can be viewed at https://aliciachen10.github.io/horiseon-website/
 
-# preview 
+# preview of the website below
 ![horiseon-preview](https://github.com/aliciachen10/horiseon-website/blob/main/assets/images/horiseon-preview.png)
 
 
